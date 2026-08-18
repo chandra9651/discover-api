@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "title": "Awarapan 2 Box Office Collections: Emraan Hashmi film...",
+        "source": "Pinkvilla",
+        "timeAgo": "8h",
+        "url": "https://www.pinkvilla.com",
+        "imageUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=600&auto=format&fit=crop",
+        "sourceIconUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=100&auto=format&fit=crop",
+        "layoutType": "large-image"
+    },
+    {
+        "id": "2",
+        "title": "'मिर्जापुर' की सीधी-सादी डिंपी याद है? पढ़ाई-लिखाई में अव्वल हर्षिता गौर...",
+        "source": "India TV Hindi",
+        "timeAgo": "7h",
+        "url": "https://www.indiatv.in",
+        "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=300&auto=format&fit=crop",
+        "sourceIconUrl": "https://images.unsplash.com/photo-1618401471353-b98aedd04e11?q=80&w=100&auto=format&fit=crop",
+        "layoutType": "thumbnail-right"
+    }
+]
